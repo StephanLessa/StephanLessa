@@ -15,7 +15,7 @@
   <br>
   🌱 Estou aprofundando meus conhecimentos e me especializando em **Desenvolvimento de Software** no programa **Desenvolve** (uma parceria entre Koru e Grupo Boticário), onde estou adquirindo habilidades avançadas em diversas tecnologias.
   <br>
-  🚀 Com o avanço dos meus estudos, estou me especializando em **desenvolvimento full-stack**, com foco em **Node.js para o backend** e **React para o frontend**, além de explorar **Docker para orquestração de contêineres** e **soluções em nuvem**.
+  🚀 Com o avanço dos meus estudos, estou me especializando em **desenvolvimento full-stack**.
   <br>
   ✨ Fique atento(a)! Em breve, meus projetos estarão disponíveis aqui, demonstrando minha evolução e as habilidades que estou aprimorando.
 </p>
