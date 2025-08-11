@@ -8,7 +8,7 @@
 
 <h2 align="center">Sobre Mim</h2>
 
-<p align="center">
+<p align="esquerda">
   🌟 Olá, eu sou o Stephan! Sou um desenvolvedor **apaixonado por tecnologia** e **em constante evolução**.
   <br>
   💡 Atualmente sou iniciante como Dev, mas já possuo **certificações em HTML e CSS (Básicos)**, que me deram uma base sólida para o mundo do desenvolvimento web.
