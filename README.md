@@ -33,15 +33,18 @@
 
 <h2 align="center">Minhas Estatísticas no GitHub</h2>
 
-<p align="esquerda">
-  <img src="https://github-readme-stats.vercel.app/api?username=StephanLessa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=StephanLessa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanLessa&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanLessa&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
-</p>
-
-<p align="direita-centro">
+<p align="centro">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanLessa&theme=dark" alt="GitHub Streak" />
 </p>
 
