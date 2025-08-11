@@ -44,7 +44,7 @@
   </tr>
 </table>
 
-<p align="centro">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanLessa&theme=dark" alt="GitHub Streak" />
 </p>
 
