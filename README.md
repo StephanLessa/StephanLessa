@@ -6,6 +6,8 @@ Atualmente estudando Desenvolvimento de Software no programa de <span style="col
 Pretendo me especializar.<br/>
 Então, em breve de meus projetos estarão aqui!
 
+https://github-readme-stats.vercel.app/api?username=StephanLessa&show_icons=true&theme=dark
+
 <p alinhar='esquerda'>
 <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/stephan-lessa" alt="LinkedIn"/></a>
