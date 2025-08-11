@@ -1,13 +1,59 @@
-## Olá, eu sou o Stephan! 
+<h1 align="center">Olá! 👋 Sou Stephan Lessa</h1>
 
-Sou iniciante como Dev, 
-Tenho certificações de HTML e CSS (Básicos).</br>
-Atualmente estudando Desenvolvimento de Software no programa de <span style="color: purple;">Desenvolve</span> (Parceria entre Koru e Grupo Boticário).<br/>
-Pretendo me especializar.<br/>
-Então, em breve de meus projetos estarão aqui!
+<p align="center">
+  Desenvolvedor Full-stack em formação
+</p>
 
-https://github-readme-stats.vercel.app/api?username=StephanLessa&show_icons=true&theme=dark
+---
 
-<p alinhar='esquerda'>
-<a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/stephan-lessa" alt="LinkedIn"/></a>
+<h2 align="center">Sobre Mim</h2>
+
+<p align="center">
+  🌟 Olá, eu sou o Stephan! Sou um desenvolvedor **apaixonado por tecnologia** e **em constante evolução**.
+  <br>
+  💡 Atualmente sou iniciante como Dev, mas já possuo **certificações em HTML e CSS (Básicos)**, que me deram uma base sólida para o mundo do desenvolvimento web.
+  <br>
+  🌱 Estou aprofundando meus conhecimentos e me especializando em **Desenvolvimento de Software** no programa **Desenvolve** (uma parceria entre Koru e Grupo Boticário), onde estou adquirindo habilidades avançadas em diversas tecnologias.
+  <br>
+  🚀 Com o avanço dos meus estudos, estou me especializando em **desenvolvimento full-stack**, com foco em **Node.js para o backend** e **React para o frontend**, além de explorar **Docker para orquestração de contêineres** e **soluções em nuvem**.
+  <br>
+  ✨ Fique atento(a)! Em breve, meus projetos estarão disponíveis aqui, demonstrando minha evolução e as habilidades que estou aprimorando.
+</p>
+
+---
+
+<h2 align="center">Tecnologias e Ferramentas</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,postgresql,docker,git,github,vscode,aws" alt="Tecnologias" />
+  <br>
+  </p>
+
+---
+
+<h2 align="center">Minhas Estatísticas no GitHub</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StephanLessa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanLessa&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanLessa&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+<h2 align="center">Conecte-se Comigo</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:SEU_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  </p>
