@@ -25,7 +25,7 @@
 <h2 align="center">Tecnologias e Ferramentas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,postgresql,docker,git,github,vscode,aws" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode" alt="Tecnologias" />
   <br>
   </p>
 
