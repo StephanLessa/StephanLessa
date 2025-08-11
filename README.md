@@ -9,4 +9,3 @@ Então, em breve de meus projetos estarão aqui!
 <p alinhar='esquerda'>
 <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/stephan-lessa" alt="LinkedIn"/></a>
-![Stephan Lessa GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
