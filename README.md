@@ -48,12 +48,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanLessa&theme=dark" alt="GitHub Streak" />
 </p>
 
-<h2 align="center">Meu Jogo da Cobrinha de Contribuições</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/StephanLessa/StephanLessa/output/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake" />
-</p>
-
 ---
 
 <h2 align="center">Conecte-se Comigo</h2>
