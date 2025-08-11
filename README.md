@@ -33,7 +33,7 @@
 
 <h2 align="center">Minhas Estatísticas no GitHub</h2>
 
-<p align="center">
+<p align="esquerda">
   <img src="https://github-readme-stats.vercel.app/api?username=StephanLessa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </p>
 
@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanLessa&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
 </p>
 
-<p align="center">
+<p align="direita-centro">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanLessa&theme=dark" alt="GitHub Streak" />
 </p>
 
