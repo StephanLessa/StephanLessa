@@ -8,14 +8,14 @@
 
 <h2 align="center">Sobre Mim</h2>
 
-<p align="esquerda">
-  🌟 Olá, eu sou o Stephan! Sou um desenvolvedor **apaixonado por tecnologia** e **em constante evolução**.
+<p align="left">
+  🌟 Olá, eu sou o Stephan! Sou um desenvolvedor <b>apaixonado por tecnologia</b> e <b>em constante evolução</b>.
   <br>
-  💡 Atualmente sou iniciante como Dev, mas já possuo **certificações em HTML e CSS (Básicos)**, que me deram uma base sólida para o mundo do desenvolvimento web.
+  💡 Atualmente sou iniciante como Dev, mas já possuo <b>certificações em HTML e CSS (Básicos)</b>, que me deram uma base sólida para o mundo do desenvolvimento web.
   <br>
-  🌱 Estou aprofundando meus conhecimentos e me especializando em **Desenvolvimento de Software** no programa **Desenvolve** (uma parceria entre Koru e Grupo Boticário), onde estou adquirindo habilidades avançadas em diversas tecnologias.
+  🌱 Estou aprofundando meus conhecimentos e me especializando em <b>Desenvolvimento de Software</b> no programa <b>Desenvolve</b> (uma parceria entre Koru e Grupo Boticário), onde estou adquirindo habilidades avançadas em diversas tecnologias.
   <br>
-  🚀 Com o avanço dos meus estudos, estou me especializando em **desenvolvimento full-stack**.
+  🚀 Com o avanço dos meus estudos, estou me especializando em <b>desenvolvimento full-stack</b>.
   <br>
   ✨ Fique atento(a)! Em breve, meus projetos estarão disponíveis aqui, demonstrando minha evolução e as habilidades que estou aprimorando.
 </p>
@@ -26,8 +26,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode" alt="Tecnologias" />
-  <br>
-  </p>
+</p>
 
 ---
 
@@ -59,7 +58,12 @@
   <a href="mailto:SEU_EMAIL" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  </p>
-  ### 🐍 Minhas contribuições
-![Snake animation](https://github.com/StephanLessa/StephanLessa/blob/output/snake.svg)
+</p>
 
+---
+
+<h2 align="center">🐍 Minhas Contribuições</h2>
+
+<p align="center">
+  <img src="https://github.com/StephanLessa/StephanLessa/blob/output/snake.svg" alt="Snake animation" />
+</p>
