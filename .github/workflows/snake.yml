@@ -1,28 +1,33 @@
-name: Generate Snake Animation
+name: GitHub Snake
 
 on:
   schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch:
+    - cron: '0 * * * *'  # roda a cada hora
+  push:
+    branches:
+      - main  # sua branch principal
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v3
-
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
         with:
-          github_user_name: StephanLessa
-          outputs: dist/snake.svg
+          ref: main
+          fetch-depth: 0
 
-      - name: Push snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Generate Snake
+        uses: platane/snk@v2
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output: snake.svg
+
+      - name: Commit Snake
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add snake.svg
+          git commit -m "Update GitHub Snake" || echo "No changes to commit"
+          git push
