@@ -64,6 +64,6 @@
 
 <h2 align="center">🐍 Minhas Contribuições</h2>
 
-<p align="center">
-  <img src="https://github.com/StephanLessa/StephanLessa/blob/output/snake.svg" alt="Snake animation" />
+<p align="center"> 
+![GitHub Snake](snake.svg)
 </p>
