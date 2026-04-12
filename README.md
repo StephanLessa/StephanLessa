@@ -62,6 +62,6 @@
 
 ---
 
-![GitHub Snake](snake.svg)
+![snake animation](https://github.com/<StephanLessa>/<StephanLessa>/blob/output/github-contribution-grid-snake2.svg)
 
 
