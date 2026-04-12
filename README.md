@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Sou Stephan Lessa</h1>
 
 <p align="center">
-  Desenvolvedor Full-stack em formação
+  Desenvolvedor Full-stack em desenvolvimento!
 </p>
 
 ---
