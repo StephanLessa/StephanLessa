@@ -64,5 +64,4 @@
 
 ![GitHub Snake](snake.svg)
 
-> A cobrinha começa a contar os commits a partir do momento em que o workflow é ativado.
 
